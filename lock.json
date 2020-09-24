@@ -1,0 +1,8 @@
+{
+  "https://deno.land/x/axiod/mod.ts": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "https://deno.land/x/axiod@0.20.0-0/helpers.ts": "b54a9c892383b24e29ed3fe55b11c6b521120c83c8e3d090bd6c09a86b37ccc6",
+  "https://deno.land/x/axiod@0.20.0-0/interfaces.ts": "03598d6a8fba71dc1e0a76a04f67d60edc3fcd85a541c68649f95f2369dfef13",
+  "https://deno.land/x/axiod@0.20.0-0/mod.ts": "398b246ecb262c272b96488986f137150c5a95d843f766cf101b92b10c05f751",
+  "https://deno.land/x/url_join/mod.ts": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "https://deno.land/x/url_join@1.0.0/mod.ts": "d3c7007e3ab15594e54d5b90dce623b3e274a726e0cdf57858e7ecab77a0166c"
+}
